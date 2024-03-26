@@ -1,1 +1,1 @@
-# IgBlast
+# Custom IgBlast database.
